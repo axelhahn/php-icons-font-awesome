@@ -11,7 +11,7 @@
 
     <h1>Font awesome icon classes</h1>
     <p>
-        Search trough free fontawesome icon classes...<br>
+        Search trough fontawesome icon classes...<br>
     </p>
     <div class="main">
         <p>
