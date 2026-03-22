@@ -1,0 +1,88 @@
+body{
+    background: linear-gradient(-14deg, #d7dde2, #fff,rgb(255, 243, 231)) fixed;
+    color: #333;
+    font-family: sans-serif;
+    margin: 1em 10%;
+    padding: 0;
+}
+
+button{
+    background-color: #800;
+    border: none;
+    border-radius: 0.3em;
+    color: #fff;
+    padding: 0.6em 1em;
+}
+button.resetfilter{
+    background-color: #800;
+    border: none;
+    border-radius: 1em;
+    color: #fff;
+    font-size: 150%;
+    display: none;
+    margin-left: 0.5em;
+    padding: 0.6em 1em;
+}
+
+code{
+    background-color: #eee;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 0.3em;
+    color: #800;
+    font-size: 80%;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 0.3em 0.5em;
+}
+h1{
+    color: rgb(230, 42, 133);
+}
+td i{
+    color: rgb(96, 35, 138);
+    font-size: 3em;
+    padding: 0.2em;
+}
+td strong a{
+    color: #333;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline !important;
+}
+
+tr:hover{
+    background: #e4f6cc;
+}
+/*
+tr:hover td i{
+    background: #fff;
+    border: 1px solid #cde;
+    font-size: 12em;
+    position: absolute;
+    padding: 0.2em;
+    margin-top: 0.2em;
+}
+    */
+
+div.main{
+    background: rgba(255,255,255,0.4);
+    border: 2px solid #cde;
+    border-radius: 2em;
+    padding: 1em;
+    margin-bottom: 10em;
+    min-width: 38em;;
+}
+.search a{
+    color: #89a;
+    text-decoration: none;
+}
+
+.searchfield{
+    border: none;
+    border-radius: 1em;
+    border-bottom: 2px solid #eee;
+    color: #e62;
+    font-size: 150%;
+    padding: 0.45em;
+    margin: 0 0 1em;
+    width: 20em;
+}
