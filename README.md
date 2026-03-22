@@ -40,3 +40,5 @@ php -S localhost:9000
 ```
 
 Then open in your webbrowser: <http://localhost:9000>
+
+In the search field type some keywords and click on a word of the label or search tags to add that word in the filter field. All keywords will be applied with AND condition. 

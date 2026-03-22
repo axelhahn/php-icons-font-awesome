@@ -48,6 +48,10 @@
         </table>
     </div>
 
+    <footer>
+        Source on GitHub: <a href="https://github.com/axelhahn/php-icons-font-awesome" target="_blank">axelhahn/php-icons-font-awesome</a>
+    </footer>
+
     <script type="text/javascript" language="javascript" src="/js/functions.js"></script>
 </body>
 </html>

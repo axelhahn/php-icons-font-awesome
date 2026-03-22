@@ -33,6 +33,13 @@ code{
     font-family: 'Courier New', Courier, monospace;
     padding: 0.3em 0.5em;
 }
+
+footer{
+    text-align: right;
+}
+footer a{
+    text-decoration: none;
+}
 h1{
     color: rgb(230, 42, 133);
 }
@@ -68,7 +75,7 @@ div.main{
     border: 2px solid #cde;
     border-radius: 2em;
     padding: 1em;
-    margin-bottom: 10em;
+    margin-bottom: 3em;
     min-width: 38em;;
 }
 .search a{
