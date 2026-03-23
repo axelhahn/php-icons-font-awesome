@@ -1,5 +1,5 @@
 body{
-    background: linear-gradient(-14deg, #d7dde2, #fff,rgb(255, 243, 231)) fixed;
+    background: linear-gradient(-14deg, #d6c5ee, #fff,rgb(249, 212, 176)) fixed;
     color: #333;
     font-family: sans-serif;
     margin: 1em 10%;
@@ -57,7 +57,7 @@ a:hover{
 }
 
 tr:hover{
-    background: #e4f6cc;
+    background: #d0e8b1;
 }
 /*
 tr:hover td i{
@@ -71,9 +71,10 @@ tr:hover td i{
     */
 
 div.main{
-    background: rgba(255,255,255,0.4);
-    border: 2px solid #cde;
+    background: rgba(255,255,255,0.5);
+    border: 2px solid rgb(154, 191, 228);
     border-radius: 2em;
+    box-shadow: 0.5em 0.5em 3em rgba(0, 0, 0, 0.2);
     padding: 1em;
     margin-bottom: 3em;
     min-width: 38em;;

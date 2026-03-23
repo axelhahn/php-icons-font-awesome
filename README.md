@@ -8,7 +8,7 @@ Free software and Open Source
 📄 Source: <https://github.com/axelhahn/php-icons-font-awesome> \
 📜 License: GNU GPL 3.0
 
-Related lnks:
+**Related lnks**:
 
 * Font-awesome website: <https://fontawesome.com/>
 * CDNJS - the cdn we load the icons from: <https://cdnjs.com/libraries/font-awesome>
