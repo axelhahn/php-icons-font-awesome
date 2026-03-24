@@ -8,7 +8,7 @@ Free software and Open Source
 📄 Source: <https://github.com/axelhahn/php-icons-font-awesome> \
 📜 License: GNU GPL 3.0
 
-**Related lnks**:
+**Related links**:
 
 * Font-awesome website: <https://fontawesome.com/>
 * CDNJS - the cdn we load the icons from: <https://cdnjs.com/libraries/font-awesome>
@@ -29,7 +29,7 @@ Each word of label and search terms are linked to be added in the search field.
 
 ## Requirements
 
-* PHP 8 (without web server)
+* PHP 8 (even without web server)
 
 ## Usage
 

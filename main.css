@@ -42,6 +42,7 @@ footer a{
 }
 h1{
     color: rgb(230, 42, 133);
+    text-shadow: #fff -1px -1px 3px, rgba(0,0,0,0.3) 2px 2px 2px;
 }
 td i{
     color: rgb(96, 35, 138);
